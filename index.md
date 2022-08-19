@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Health Informatics Grand Rounds, University of Pittsburgh
 
-You can use the [editor on GitHub](https://github.com/yanshanwang/pitt-hi-grand-rounds/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Organized by the [Department of Health Informatics](https://www.shrs.pitt.edu/hi), [School of Health and Rehabilitation Sciences](https://www.shrs.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/), the Health Informatics Grand Rounds is a publicly and freely available seminar series which mainly aims to offer a professional forum for health data scientists and AI-powered healthcare researchers to present their latest research findings and innovations. We aim to expose students to cutting-edge work in health informatics and to engage faculties to build new collaborations by inviting external speakers from both academia and industry. The Health Informatics Grand Rounds is sponsored by the [Center for Bioethics and Health Law](https://bioethics.pitt.edu/), the [Pitt Research, Ethics and Society Initiative](https://www.research.pitt.edu/about/research-ethics-and-society-initiative), and the [IEEE Computer Society at Pittsburgh](https://www.computer.org/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Schedule
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+| Date  | Topic | Speaker | Institution |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Jan 21, 2022  | AI for health care disparities: A double-edged sword  | Fei Wang  | Weil Cornell Medicine  |
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yanshanwang/pitt-hi-grand-rounds/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact
+If you want to present, please contact [Dr. Yanshan Wang](https://sites.pitt.edu/~yaw89/) or [Dr. Ahmad Tafti](https://aptafti.github.io/).
